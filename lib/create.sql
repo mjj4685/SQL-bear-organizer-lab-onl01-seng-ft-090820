@@ -1,4 +1,5 @@
 CREATE TABLE bears (
+  PRIMARY KEY INTEGER,
   id INTEGER,
   name TEXT,
   age INTEGER,
